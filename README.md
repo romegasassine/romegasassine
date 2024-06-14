@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romegasassine
 - 👀 I’m interested in AI & Web Dev
-- 🌱 I’m currently learning Software Engineering & Information Security
+- 🌱 I’m currently working as a Junior Software Developer
 - 💞️ I’m looking to collaborate on any fun projects!
 - 📫 How to reach me : Email - rsassine325@gmail.com
 
